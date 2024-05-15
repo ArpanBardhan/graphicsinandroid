@@ -56,7 +56,7 @@ ACTIVITY_MAIN.XML
         app:layout_constraintVertical_bias="0.0" />
 </androidx.constraintlayout.widget.ConstraintLayout
 ```
-MAIN_ACTIVITY.XML
+MAIN_ACTIVITY.JAVA
 ```XML
 package com.example.primitivegraphics;
 
